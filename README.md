@@ -3,14 +3,14 @@
 
 ![Logo Image](frontend/public/pizzaLogo.png)
 
-This is a web application for an online pizza store built using React for the frontend and Spring Boot for the backend. The application allows users to create new pizza orders, view their cart, fill out client information, and review old orders.
+This web application for an online pizza store was built using React for the frontend and Spring Boot for the backend. The application allows users to create new pizza orders, view their cart, fill out client information, and review Order History.
 
 #### Features
 - **New Order**: Users can select ingredients and add pizzas to their cart.
 - **Cart**: Users can view, edit, and delete pizzas in their cart. The total price of the pizzas is automatically calculated.
-- **Client Information**: Users fill out their personal details before submitting an order.
+- **Client Information**: Users fill out their details before submitting an order.
 - **Order Confirmation**: After submitting an order, users receive a confirmation with an Order ID.
-- **Old Order**: Users can retrieve their previous orders by entering the Order ID.
+- **Order History**: Users can retrieve their previous orders by entering the Order ID.
 
 #### Technologies Used
 - **Frontend**: React, React Router, Bootstrap, js-cookie
