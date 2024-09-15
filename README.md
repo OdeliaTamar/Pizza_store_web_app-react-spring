@@ -6,7 +6,7 @@ This is a web application for an online pizza store built using React for the fr
 - **New Order**: Users can select ingredients and add pizzas to their cart.
 - **Cart**: Users can view, edit, and delete pizzas in their cart. The total price of the pizzas is automatically calculated.
 - **Client Information**: Users fill out their personal details before submitting an order.
-- **Order Confirmation**: After submitting an order, users receive a confirmation with an Order ID, which includes both letters and numbers, for example: `Order ID: a59f1ad5-1b2c-4ee7-bcdc-00f8b3ca881e`.
+- **Order Confirmation**: After submitting an order, users receive a confirmation with an Order ID.
 - **Old Order**: Users can retrieve their previous orders by entering the Order ID.
 
 #### Technologies Used
@@ -21,9 +21,9 @@ This is a web application for an online pizza store built using React for the fr
     - Make sure the backend is running on `http://localhost:8080`.
 
 2. **Frontend Setup**:
-    - Navigate to the `client` directory:
+    - Navigate to the `frontend` directory:
       ```bash
-      cd client
+      cd frontend
       ```
     - Install the dependencies:
       ```bash
@@ -39,8 +39,10 @@ This is a web application for an online pizza store built using React for the fr
       ```
     - The frontend should now be running on `http://localhost:3000`.
 
-#### Usage
-1. **New Order**:
+## Pictures:
+- **Main Page:**
+  
+![Open page](\frontend\public\main_page.png)
 
 #### Notes
 - **Using js-cookie**: We used the `js-cookie` library to store user details in cookies, allowing the form to be pre-filled with the user's information on subsequent visits.
@@ -53,4 +55,3 @@ This is a web application for an online pizza store built using React for the fr
 Enjoy your pizza! 🍕
 =======
 # Pizza_store_web_app-react-spring
->>>>>>> 47dc8f4b1782ff10575daaab178308d50997ba8b
