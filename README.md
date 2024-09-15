@@ -44,6 +44,10 @@ This is a web application for an online pizza store built using React for the fr
   
 ![Main Page Image](frontend/public/main_page.png)
 
+- **cart Page:**
+  
+![Cart Page Image](frontend/public/cart.png)
+
 #### Notes
 - **Using js-cookie**: We used the `js-cookie` library to store user details in cookies, allowing the form to be pre-filled with the user's information on subsequent visits.
 - **Cart Implementation**: The cart is managed locally within the React application. Therefore, refreshing the page will clear the cart.
