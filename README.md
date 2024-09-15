@@ -42,7 +42,7 @@ This is a web application for an online pizza store built using React for the fr
 ## Pictures:
 - **Main Page:**
   
-![Open page](\frontend\public\main_page.png)
+![Open page](\main_page.png)
 
 #### Notes
 - **Using js-cookie**: We used the `js-cookie` library to store user details in cookies, allowing the form to be pre-filled with the user's information on subsequent visits.
@@ -53,5 +53,3 @@ This is a web application for an online pizza store built using React for the fr
 - Refreshing the page will clear the cart since it is managed locally in React.
 
 Enjoy your pizza! 🍕
-=======
-# Pizza_store_web_app-react-spring
