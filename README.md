@@ -1,6 +1,8 @@
 
 <h1>Pizza Online Store</h1>
+
 ![Logo Image](frontend/public/pizzaLogo.png)
+
 This is a web application for an online pizza store built using React for the frontend and Spring Boot for the backend. The application allows users to create new pizza orders, view their cart, fill out client information, and review old orders.
 
 #### Features
